@@ -1,4 +1,4 @@
-# Settings for my IntelliJ IDEA  
+# Settings for my Android Studio   
 
 This helps my OCD to not bug me when I code in different computers :D
 
