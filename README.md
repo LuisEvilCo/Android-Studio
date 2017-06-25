@@ -1,4 +1,4 @@
-# Setting for my IntelliJ IDEA  
+# Settings for my IntelliJ IDEA  
 
 
 
