@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/LuisEvilCo/Aquiles.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:LuisEvilCo/Scratch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/StudioProyects" />
+    <option name="cloneParentDir" value="C:\Users\Luis\Github" />
   </component>
 </application>
