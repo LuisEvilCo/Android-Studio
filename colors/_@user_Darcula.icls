@@ -1,28 +1,28 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2017-03-14T12:17:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2018-02-03T08:04:14</property>
+    <property name="modified">2018-02-19T12:20:14</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
@@ -33,6 +33,12 @@
     </option>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
       <value />
+    </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="467cda" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
@@ -156,6 +162,11 @@
     <option name="KOTLIN_ABSTRACT_CLASS">
       <value>
         <option name="FOREGROUND" value="428ab8" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="467cda" />
       </value>
     </option>
     <option name="KOTLIN_ARROW">
