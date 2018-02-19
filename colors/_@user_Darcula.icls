@@ -4,7 +4,7 @@
     <property name="created">2017-03-14T12:17:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2018-02-19T12:20:14</property>
+    <property name="modified">2018-02-19T12:32:52</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -121,6 +121,11 @@
         <option name="FOREGROUND" value="428ab8" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="dc6750" />
+      </value>
+    </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -144,6 +149,17 @@
     <option name="JAVA_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="467cda" />
+      </value>
+    </option>
+    <option name="JSON.COMMA">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="dc6750" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KDOC_LINK">
