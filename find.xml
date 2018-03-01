@@ -13,6 +13,15 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*g</mask>
+      <mask>*</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

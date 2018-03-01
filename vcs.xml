@@ -30,8 +30,16 @@
           <option name="url" value="git@github.com:LuisEvilCo/Vouchers.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:LuisEvilCo/AndroidRoomWithView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:edlio/sangha_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/edlio" />
   </component>
 </application>
