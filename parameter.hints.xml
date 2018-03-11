@@ -1,5 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.sanghapp.mapp.util.MessageUtils.showMessage(context,msg)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
