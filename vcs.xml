@@ -47,6 +47,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="git@github.com:googlecodelabs/android-migrate-to-jobs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="git@github.com:LuisEvilCo/android-migrate-to-jobs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
