@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping pattern="balance_database" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping pattern="balance_database" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
