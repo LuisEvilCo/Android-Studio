@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/StudioProjects/Vouchers/run.sh" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/StudioProjects/Vouchers" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Luis/StudioProjects/Vouchers" />
     </exec>
   </tool>
 </toolSet>
