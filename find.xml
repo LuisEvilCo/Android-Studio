@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'sanghainc-sangha_teacher_android-fb284f950b46'" />
+    <option name="defaultScopeName" value="Project 'sanghainc-sangha_teacher_android-fb284f950b46'" />
+    <option name="SEARCH_SCOPE" value="Project 'sanghainc-sangha_teacher_android-fb284f950b46'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
