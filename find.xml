@@ -20,8 +20,8 @@
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
-      <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
