@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../sangha/src/main/res/values/strings.xml [sangha]'" />
-    <option name="defaultScopeName" value="File '.../sangha/src/main/res/values/strings.xml [sangha]'" />
-    <option name="SEARCH_SCOPE" value="File '.../sangha/src/main/res/values/strings.xml [sangha]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
