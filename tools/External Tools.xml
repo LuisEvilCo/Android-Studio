@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="C:/Users/Luis/edlio" />
     </exec>
   </tool>
+  <tool name="mainframer-Vouchers" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/StudioProjects/Vouchers/run.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Luis/StudioProjects/Vouchers" />
+    </exec>
+  </tool>
 </toolSet>
