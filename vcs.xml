@@ -70,6 +70,10 @@
           <option name="url" value="git@github.com:andreasschrade/android-design-template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:rubensousa/Transitions.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Luis\StudioProjects" />
