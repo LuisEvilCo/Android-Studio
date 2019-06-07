@@ -78,6 +78,10 @@
           <option name="url" value="git@bitbucket.org:sanghainc/sangha_teacher_android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LuisEvilCo/mecanismos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/C:\Users\Luis\StudioProjects" />
